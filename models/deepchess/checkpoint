@@ -1,0 +1,2 @@
+model_checkpoint_path: "deepchess_weights"
+all_model_checkpoint_paths: "deepchess_weights"
