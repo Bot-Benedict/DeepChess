@@ -8,3 +8,5 @@ This repository contains the implementation from cleaning the pgn dataset till t
 5. train_deepchess.ipynb
 6. bitboard_to_numpy.ipynb
 7. experiments.ipynb
+
+The presentation slides can be found at [this url](https://docs.google.com/presentation/d/1nyIBquiZtOcA5YSRgW5NMCPDZ-VccnVa3hmhT9JdOWo/edit?usp=sharing).
